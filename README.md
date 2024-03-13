@@ -29,12 +29,6 @@ I worked with [Dave O'Hallaron](http://www.cs.cmu.edu/~droh/) on systems problem
 
 <table>
 <tr>
-  <th>Email
-  <td>atrejo90 (plus) gh (at) gmail
-<tr>
-  <th>Phone
-  <td><a href="tel:+19724085767">+1 (972) 408-5767</a>
-<tr>
   <th>Office
   <td>GDC 5.728D
 <tr style="vertical-align:top">
