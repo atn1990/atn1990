@@ -51,6 +51,9 @@ I worked with [Dave O'Hallaron](http://www.cs.cmu.edu/~droh) on systems problems
   <td><a href="https://www.linkedin.com/in/atn90">LinkedIn</a>
 <tr>
   <th>
+  <td><a href="https://www.instagram.com/atrejo1990">Instagram</a>
+<tr>
+  <th>
   <td><a href="https://www.twitter.com/atn1990">Twitter</a>
 </table>
 
